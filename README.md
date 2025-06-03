@@ -30,6 +30,6 @@ Visualize cleaned job data using Power BI to uncover insights and communicate ke
 ---
 
 ## 🧾 How to View
-1. Open `task-02.pbix` using Power BI Desktop.
+1. Open `task-02-outputs` using Power BI Desktop.
 
 ---

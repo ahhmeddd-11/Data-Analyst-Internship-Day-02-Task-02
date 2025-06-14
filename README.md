@@ -1,35 +1,28 @@
-# Task 2: Data Visualization and Storytelling (Job Listings)
+# Task 2 - Data Visualization and Storytelling
 
-## 📌 Objective
-Visualize cleaned job data using Power BI to uncover insights and communicate key patterns through interactive dashboards.
+## Overview
 
----
+This task focused on creating effective visualizations that tell a clear and compelling data story, using charts and dashboards.
 
-## 📁 Dataset
-- File: `clean_jobs.csv`
+## Tools Used
 
----
-
-## 🛠 Tools Used
 - Power BI
 
----
+## Objectives
 
-## 📊 Visuals Created
-1. **Jobs by Industry** – A bar chart showing the number of job postings per industry.
-2. **Jobs by Location** – Map/Bar chart representing where most jobs are offered.
-3. **Salary Estimate by Sector** – Column chart visualizing average salary across sectors.
-4. **Jobs by Year Founded** – Bar chart showing the number of jobs from companies founded in different years.
+- Visualize key metrics
+- Present insights through charts
+- Use storytelling techniques
 
----
+## Approach
 
-## 📤 Deliverables
-- `task-02.pbix`
-- `clean_jobs.csv`
+The dataset was visualized using the right types of charts to highlight trends and patterns. Focus was placed on clarity, simplicity, and storytelling.
 
----
+## Deliverables
 
-## 🧾 How to View
-1. Open `task-02-outputs` using Power BI Desktop.
+- Visual dashboard (PDF/screenshots)
+- Brief summary of insights
 
----
+## Author
+
+Syed Ahmed Ali
